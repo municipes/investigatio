@@ -1,0 +1,29 @@
+{
+    "name": "municipes/investigatio",
+    "description": "Investigatĭo è un modulo Drupal che importa le impostazioni di ricerca indicizzata utilizzate dai Comuni.",
+    "type": "drupal-module",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/municipes/investigatio",
+    "authors": [
+        {
+            "name": "Maurizio Cavalletti",
+            "homepage":"https://www.drupal.org/u/maurizio_akabit",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Pietro Arturo Panetta",
+            "homepage":"https://www.drupal.org/u/arturopanetta",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/municipes/investigatio/issues",
+        "source": "https://github.com/municipes/investigatio"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "drupal/core-recommended": "^10",
+        "drupal/search_api": "^1.29"
+    }
+}

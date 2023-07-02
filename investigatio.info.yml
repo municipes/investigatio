@@ -1,0 +1,9 @@
+name: "Investigatĭo"
+description: Investigatĭo è un modulo Drupal che importa le impostazioni di ricerca indicizzata utilizzate dai Comuni.
+package: "Municipes"
+
+type: module
+core_version_requirement: ^10
+dependencies:
+  - search_api:search_api
+  - search_api:search_api_db
