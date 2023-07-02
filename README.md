@@ -6,7 +6,6 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/municipes/investigatio?style=for-the-badge)
 
 Investigatĭo è un modulo Drupal che importa le impostazioni di ricerca indicizzata utilizzate dai Comuni.
-Questo modulo usa `drupal/migrate` per importare le voci presenti nel repository [Origo](https://github.com/municipes/origo)
 
 ## Requisiti
 - Drupal: >= 10
